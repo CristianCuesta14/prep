@@ -13,6 +13,7 @@ function crearInstanciaPersona(nombre, apellido, edad, domicilio) {
    // Recibirás las propiedades por parámetro.
    // Retornar la instancia creada.
    // Tu código:
+   return x * y
 }
 
 function agregarMetodo() {
